@@ -8,8 +8,8 @@
 #  - All hacking tools pre-installed
 #  - One-click desktop launch
 #  
-#  Author: Tech Jarves
-#  YouTube: https://youtube.com/@TechJarves
+#  Author: Unlocked
+
 #######################################################
 # ============== CONFIGURATION ==============
 TOTAL_STEPS=13
@@ -88,14 +88,14 @@ show_banner() {
     ║                                      ║
     ║   🚀  MOBILE HACKLAB v2.1  🚀        ║
     ║                                      ║
-    ║       Tech Jarves - YouTube          ║
+    ║       Unlocked - YouTube          ║
     ║                                      ║
     ╚══════════════════════════════════════╝
 BANNER
     
 BANNER
     echo -e "${NC}"
-    echo -e "${WHITE}         Tech Jarves - YouTube${NC}"
+    echo -e "${WHITE}         Unlocked - YouTube${NC}"
     echo ""
 }
 # ============== DEVICE DETECTION ==============
@@ -521,8 +521,8 @@ COMPLETE
     echo -e "   • XFCE4 Desktop + GPU Acceleration"
     echo ""
     echo -e "${PURPLE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-    echo -e "${CYAN}  📺 Subscribe: https://youtube.com/@TechJarves${NC}"
-    echo -e "${CYAN}  🎬 Tutorial:  [YOUR VIDEO URL]${NC}"
+    echo -e "${CYAN}  ${NC}"
+    echo -e "${CYAN}  ${NC}"
     echo -e "${PURPLE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
     echo ""
     echo -e "${WHITE}⚡ TIP: Open Termux-X11 app first, then run start-hacklab.sh${NC}"
